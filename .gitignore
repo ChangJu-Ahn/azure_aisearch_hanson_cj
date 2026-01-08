@@ -1,0 +1,9 @@
+**/*.json
+**/*.jsonl
+.env
+archives
+.DS_Store
+.venv
+config
+evaluation_results_*
+
